@@ -1,4 +1,8 @@
 """
+    
+    Списание: https://3dsec.sberbank.ru/payment/webservices/merchant-ws?wsdl
+    Зачисление https://3dsec.sberbank.ru/payment/webservices/p2p?wsdl
+
     Этапы работы(шаги):
         0 - списание[registerOrder]: Регистрация перевода в платежном шлюзе
         1 - списание[paymentOrderBinding]: Списание с бизнес-карты
